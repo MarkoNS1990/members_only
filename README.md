@@ -24,13 +24,14 @@ Otherwise, if you are not logged in, you will be able to see posts authors. You 
 
 ## AUTHOR
 
-**Marko Zecevic**
+**MARKO ZEVEVIC**
 - Github: [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarkoNS1990)
 - Linkedin: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zecevicmarko/)
-- 
+
 **MERT GUNDUZ**
-- GitHub: [@githubhandle](https://github.com/mgunduz1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mertgunduz1/)
+- Github: [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgunduz1)
+- Linkedin: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertgunduz1/)
+
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!
