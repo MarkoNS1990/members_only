@@ -1,0 +1,19 @@
+<h1>Posts</h1>
+<div class="row row-cols-3 g-4">
+    <% @posts.each do |post| %>
+      <div class="col">
+  <div class="card">
+    <div class="card-header">
+    <%= post.title %>
+    </div>
+    <div class="card-body">
+      <p class="card-text py-3"><%= post.body %></p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Created by: <%=  user_signed_in? ? post.user.email : "Login to see the Author" %></small>
+    </div>
+  </div>
+  </div>
+<% end %>
+</div>
+
